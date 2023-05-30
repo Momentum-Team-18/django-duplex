@@ -1,6 +1,6 @@
 # Choose a Project
 
-This week, you will be on a small team working on a project. Your team should use [feature branches](https://bocoup.com/blog/git-workflow-walkthrough-feature-branches) for development. You can use [GitHub issues](https://guides.github.com/features/issues/) to keep track of what needs to be done and who is working on what.
+This week, you will be on a small team working on a project. Your team should use VS code live share for development with your team. 
 
 Use your combined creativity and good judgment to make decisions as you work. Users expect to see some common features in web applications. If they are not mentioned in the project's description, you should still do them. For example: in the code snippet application, users should have avatar images. You don't have to handle file uploads yourself -- you could use Gravatar with [django-gravatar](https://github.com/twaddington/django-gravatar) -- but you need some way of handling that.
 
